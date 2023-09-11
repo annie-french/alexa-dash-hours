@@ -1,0 +1,11 @@
+{
+  "askToolkitResourcesVersion": "2020-04-15",
+  "profiles": {
+    "Annie": {
+      "skillId": "amzn1.ask.skill.8082f868-ea2c-4dab-a060-f0901982dc03",
+      "skillInfrastructure": {
+        "type": "@ask-cli/hosted-skill-deployer"
+      }
+    }
+  }
+}

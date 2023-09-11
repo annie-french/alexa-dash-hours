@@ -1,0 +1,527 @@
+{
+    "Lamb-Miller Field House": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 22,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Matchbox Fitness Center": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 7,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 22,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Bookstore": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 10,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 18,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Career Services": {
+        "type": "interruptions",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 30,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 16,
+            "closeMin": 30,
+            "closeSec": 0
+        }
+    },
+    "Career Services \u2013 Peer Advisor Drop-Ins": {
+        "type": "closed",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 13,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "false",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "ITS Help Desk - Beardsley In-Person Appointments": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 9,
+            "openMin": 30,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 15,
+            "closeMin": 30,
+            "closeSec": 0
+        }
+    },
+    "ITS Help Desk - McCabe": {
+        "type": "closed",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 16,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "false",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "ITS Help Desk - Remote": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 22,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "List Gallery": {
+        "type": "closed",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 12,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "false",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Off-Campus Study Office": {
+        "type": "interruptions",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 30,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 16,
+            "closeMin": 30,
+            "closeSec": 0
+        }
+    },
+    "OneCard Office": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 30,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 16,
+            "closeMin": 30,
+            "closeSec": 0
+        }
+    },
+    "Post Office": {
+        "type": "interruptions",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 9,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 15,
+            "closeMin": 45,
+            "closeSec": 0
+        }
+    },
+    "Post Office - Package Pickup": {
+        "type": "interruptions",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 9,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 15,
+            "closeMin": 45,
+            "closeSec": 0
+        }
+    },
+    "Print Services": {
+        "type": "interruptions",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 30,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 14,
+            "closeMin": 30,
+            "closeSec": 0
+        }
+    },
+    "Dining Center": {
+        "type": "closed",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 11,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "false",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Essie Mae's": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 19,
+            "closeMin": 30,
+            "closeSec": 0
+        }
+    },
+    "Kohlberg Coffee Bar": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 16,
+            "closeMin": 30,
+            "closeSec": 0
+        }
+    },
+    "Science Center Coffee Bar": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 23,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Counseling and Psychological Services (CAPS)": {
+        "type": "interruptions",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 30,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 16,
+            "closeMin": 30,
+            "closeSec": 0
+        }
+    },
+    "Worth Health Center": {
+        "type": "interruptions",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 9,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 16,
+            "closeMin": 45,
+            "closeSec": 0
+        }
+    },
+    "Language Resource Center": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 9,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 23,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "MakerSpace": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 9,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 23,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Media Center": {
+        "type": "appointment",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 0,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Writing Center": {
+        "type": "closed",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 19,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "false",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Cornell Library": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 30,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 1,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Friends Historical Library": {
+        "type": "appointment",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 0,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Library Chat": {
+        "type": "closed",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 11,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "false",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "McCabe Library": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 2,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Peace Collection": {
+        "type": "appointment",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 0,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Underhill Library": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 9,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 1,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Black Cultural Center": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 9,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 22,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Hormel-Nguyen Intercultural Center": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 9,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 23,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "Kohlberg": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 8,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 16,
+            "closeMin": 30,
+            "closeSec": 0
+        }
+    },
+    "website for more information.Campus ServicesBookstore": {
+        "type": "normal",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 10,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "true",
+            "closeHour": 18,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    },
+    "website for more information.Writing Center": {
+        "type": "closed",
+        "open_dic": {
+            "openKnown": "true",
+            "openHour": 19,
+            "openMin": 0,
+            "openSec": 0
+        },
+        "close_dic": {
+            "closeKnown": "false",
+            "closeHour": 0,
+            "closeMin": 0,
+            "closeSec": 0
+        }
+    }
+}

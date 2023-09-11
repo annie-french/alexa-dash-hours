@@ -1,0 +1,167 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "swat hours",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "HelloWorldIntent",
+          "slots": [],
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "OpenOrClosed",
+          "slots": [
+            {
+              "name": "building",
+              "type": "Buildings"
+            }
+          ],
+          "samples": [
+            "is {building} open",
+            "is {building} closed",
+            "is {building} open now",
+            "is {building} closed now"
+          ]
+        },
+        {
+          "name": "SwatIntent",
+          "slots": [],
+          "samples": [
+            "Swat rocks",
+            "Go Swarthmore"
+          ]
+        },
+        {
+          "name": "TellHours",
+          "slots": [
+            {
+              "name": "building",
+              "type": "Buildings"
+            }
+          ],
+          "samples": [
+            "show me hours for {building}",
+            "can you tell me what the hours for {building} are",
+            "What are the hours for {building}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "lamb-miller field house"
+              }
+            },
+            {
+              "name": {
+                "value": "matchbox fitness center"
+              }
+            },
+            {
+              "name": {
+                "value": "bookstore"
+              }
+            },
+            {
+              "name": {
+                "value": "career services"
+              }
+            },
+            {
+              "name": {
+                "value": "off-campus study office"
+              }
+            },
+            {
+              "name": {
+                "value": "onecard office"
+              }
+            },
+            {
+              "name": {
+                "value": "post office"
+              }
+            },
+            {
+              "name": {
+                "value": "print services"
+              }
+            },
+            {
+              "name": {
+                "value": "dining center"
+              }
+            },
+            {
+              "name": {
+                "value": "essie mae\u0027s"
+              }
+            },
+            {
+              "name": {
+                "value": "kohlberg coffee bar"
+              }
+            },
+            {
+              "name": {
+                "value": "science center coffee bar"
+              }
+            },
+            {
+              "name": {
+                "value": "worth health center"
+              }
+            },
+            {
+              "name": {
+                "value": "makerspace"
+              }
+            },
+            {
+              "name": {
+                "value": "writing center"
+              }
+            },
+            {
+              "name": {
+                "value": "black cultural center"
+              }
+            }
+          ],
+          "name": "Buildings"
+        }
+      ]
+    }
+  },
+  "version": "30"
+}
